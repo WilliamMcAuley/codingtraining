@@ -5,47 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8420635b-ca96-407b-b81d-e75ea18394d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codingtraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/prb1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/prb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/prb3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/prb2re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/prb3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/fill in excersie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/prb3d2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/count_everything.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/find_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/first_unique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/most_times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_6/Classes_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_6/interview_prbs_again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_6/most_frequent_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_6/return_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/improvement_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/mini_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7/most_frequent_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Return all duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Return all unique numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Return least frequent duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8/Return most frequent duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_9/First_repeat_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_9/Return least frquent duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/count vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/palindrome checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/reverse a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/self init class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codingtraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codingtraining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/prb1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/prb1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/prb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/prb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/prb3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/prb3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "WilliamMcAuley"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WilliamMcAuley&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/WilliamMcAuley/codingtraining.git",
-    "accountId": "19b30d5b-2ccd-487c-b38e-68f0b4960c8e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WilliamMcAuley/codingtraining.git&quot;,
+    &quot;accountId&quot;: &quot;19b30d5b-2ccd-487c-b38e-68f0b4960c8e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -95,6 +63,7 @@
     "Python.Return least frequent duplicate.executor": "Run",
     "Python.Return least frquent duplicate.executor": "Run",
     "Python.Return most frequent duplicate.executor": "Run",
+    "Python.count vowels.executor": "Run",
     "Python.count_everything.executor": "Run",
     "Python.find_duplicates.executor": "Run",
     "Python.first_unique.executor": "Run",
@@ -104,14 +73,17 @@
     "Python.most_frequent_number.executor": "Run",
     "Python.most_frequent_numbers.executor": "Run",
     "Python.most_times.executor": "Run",
+    "Python.palindrome checker.executor": "Run",
     "Python.prb1.executor": "Run",
     "Python.prb2.executor": "Run",
     "Python.prb3.executor": "Run",
     "Python.return_duplicates.executor": "Run",
+    "Python.reverse a string.executor": "Run",
+    "Python.self init class.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/WilliamMcAuley/PycharmProjects/PythonProject/codingtraining"
   }
